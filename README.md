@@ -1,27 +1,42 @@
-<h1 align="center">Hello, My name is Arqam Afaq</h1>
-<br>
-<p align="center">I am a CSE student exploring the world of frontend while also delving into the exciting field of Machine Learning, with a curious mind for open-source.</p>
+# Hi, I'm Arqam Afaq
+<pre>
+░█─░█ ░█▀▀▀ ░█─── ░█─── ░█▀▀▀█ 　 ░█──░█ ░█▀▀▀█ ░█▀▀█ ░█─── ░█▀▀▄ 
+░█▀▀█ ░█▀▀▀ ░█─── ░█─── ░█──░█ 　 ░█░█░█ ░█──░█ ░█▄▄▀ ░█─── ░█─░█ 
+░█─░█ ░█▄▄▄ ░█▄▄█ ░█▄▄█ ░█▄▄▄█ 　 ░█▄▀▄█ ░█▄▄▄█ ░█─░█ ░█▄▄█ ░█▄▄▀
+</pre>
 
-<div align="center">
+## About Me
+I’m a Frontend Engineer who loves building responsive and user-friendly web applications. I focus on creating digital experiences that combine clean design with seamless functionality.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=arrqamafaq.arrqamafaq)
 
-[![Biolink](https://img.shields.io/badge/Biolink-%230077B5.svg?logo=safari&logoColor=white)](https://bio.link/arqamafaq/) &nbsp;&nbsp;&nbsp;&nbsp; [
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arqamafaq) &nbsp;&nbsp;&nbsp;&nbsp; [
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arrqamafaq) &nbsp;&nbsp;&nbsp;&nbsp;
-
-</div>
 
 <br>
 
-<div align="center">
+## Technical Skills:
+Frontend • Languages • Design • Tools & Platforms
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arrqamafaq&theme=dark&hide_border=true&show_icons=true&locale=en" alt="arrqamafaq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arrqamafaq&theme=dark&hide_border=true" alt="arrqamafaq" /></p>
-
-</div>
+<a href="https://github.com/azlibdar">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" /> 
+  <img src="https://skillicons.dev/icons?i=git,github,vite,vscode" /> 
+  <img src="https://skillicons.dev/icons?i=postman,notion,figma" /> 
+</a>
 
 <br><br>
 
-<div align="center">
+> **More**
+>  
+> Responsive layouts, Browser Web APIs, Chrome Extensions Visual Design, Interaction Design, Wireframing, Prototyping.
+
+<br>
+
+## Let's connect:
+<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-Arqam%20Afaq-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a target="_blank" href="mailto:arqamafaq03@gmail.com"><img src="https://img.shields.io/badge/-Send an email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://x.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white"/></a>
+<a href="https://medium.com" target="_blank"><img src="https://img.shields.io/badge/-Blog-262c36?style=flat&logo=Medium&logoColor=white"/></a>
+
+<br>
+
+## Projects:
+> [!IMPORTANT]
+> Check out my repositories ↓
